@@ -28,7 +28,8 @@
       "teamBName": "zimbabwe",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive":true
+      "isLive":true,
+       "isVs":false
     }
   ]
 }

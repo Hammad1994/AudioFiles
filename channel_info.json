@@ -19,6 +19,16 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive":true
+    },
+     {
+      "link": "https://gocast123.me/embed.php?player=desktop&v=ptvpk",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/6om0X7vSyKW3Lj4AVpqWIQ_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/8bI8VibVGa2HtxKN_SZE6g_96x96.png",
+      "teamAName": "West Indies",
+      "teamBName": "zimbabwe",
+      "bannerImagePath": "",
+      "isWeb": true,
+      "isLive":true
     }
   ]
 }

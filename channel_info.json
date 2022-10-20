@@ -1,17 +1,6 @@
 {
   "liveNow": [
     {
-      "link": "https://www.twitch.tv/cric_1995",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/6om0X7vSyKW3Lj4AVpqWIQ_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/8bI8VibVGa2HtxKN_SZE6g_96x96.png",
-      "teamAName": "West Indies",
-      "teamBName": "zimbabwe",
-      "bannerImagePath": "",
-      "isWeb": false,
-      "isLive":true,
-      "isVs":true
-    },
-    {
       "link": "https://gocast123.me/embed.php?player=desktop&v=skyscric",
       "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/6om0X7vSyKW3Lj4AVpqWIQ_96x96.png",
       "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/8bI8VibVGa2HtxKN_SZE6g_96x96.png",
@@ -20,7 +9,7 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive":true,
-      "isVs":false
+      "isVs":true
     },
      {
       "link": "https://gocast123.me/embed.php?player=desktop&v=ptvpk",
@@ -32,6 +21,17 @@
       "isWeb": true,
       "isLive":true,
        "isVs":false
+    },
+    {
+      "link": "https://www.twitch.tv/cric_1995",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/6om0X7vSyKW3Lj4AVpqWIQ_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/8bI8VibVGa2HtxKN_SZE6g_96x96.png",
+      "teamAName": "West Indies",
+      "teamBName": "zimbabwe",
+      "bannerImagePath": "",
+      "isWeb": false,
+      "isLive":true,
+      "isVs":true
     }
   ]
 }

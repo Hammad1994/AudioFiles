@@ -8,7 +8,8 @@
       "teamBName": "zimbabwe",
       "bannerImagePath": "",
       "isWeb": false,
-      "isLive":true
+      "isLive":true,
+      "isVs":true
     },
     {
       "link": "https://gocast123.me/embed.php?player=desktop&v=skyscric",
@@ -18,7 +19,8 @@
       "teamBName": "zimbabwe",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive":false
+      "isLive":true,
+      "isVs":false
     },
      {
       "link": "https://gocast123.me/embed.php?player=desktop&v=ptvpk",

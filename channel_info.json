@@ -2,10 +2,10 @@
   "liveNow": [
     {
       "link": "https://gocast123.me/embed.php?player=desktop&v=skyscric",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/KNmWgtzC7DeN0X-OJEDsMA_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/8bI8VibVGa2HtxKN_SZE6g_96x96.png",
-      "teamAName": "Scotland",
-      "teamBName": "Zimbabwe",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
+      "teamAName": "New Zealand",
+      "teamBName": "Australia",
       "bannerImagePath": "",
       "isWeb": true,
       "isLive":true,
@@ -13,25 +13,25 @@
     },
      {
       "link": "https://gocast123.me/embed.php?player=desktop&v=ptvpk",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/KNmWgtzC7DeN0X-OJEDsMA_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/8bI8VibVGa2HtxKN_SZE6g_96x96.png",
-      "teamAName": "Scotland",
-      "teamBName": "Zimbabwe",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
+      "teamAName": "New Zealand",
+      "teamBName": "Australia",
       "bannerImagePath": "",
       "isWeb": true,
       "isLive":true,
-       "isVs":false
+       "isVs":true
     },
     {
       "link": "https://www.twitch.tv/cric_1995",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/KNmWgtzC7DeN0X-OJEDsMA_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/8bI8VibVGa2HtxKN_SZE6g_96x96.png",
-      "teamAName": "Scotland",
-      "teamBName": "Zimbabwe",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
+      "teamAName": "New Zealand",
+      "teamBName": "Australia",
       "bannerImagePath": "",
       "isWeb": false,
       "isLive":true,
-      "isVs":false
+      "isVs":true
     }
   ]
 }

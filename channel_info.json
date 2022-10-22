@@ -30,7 +30,7 @@
       "teamBName": "Australia",
       "bannerImagePath": "",
       "isWeb": false,
-      "isLive":true,
+      "isLive":false,
       "isVs":true
     }
   ]

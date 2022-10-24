@@ -8,7 +8,7 @@
       "teamBName": "India",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive":false,
+      "isLive":true,
       "isVs":true
     },
      {
@@ -19,7 +19,7 @@
       "teamBName": "India",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive":true,
+      "isLive":false,
        "isVs":false
     },
     {

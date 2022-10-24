@@ -41,8 +41,8 @@
       "teamBName": "India",
       "bannerImagePath": "",
       "isWeb": false,
-      "isLive":false,
-      "isVs":true
+      "isLive":true,
+      "isVs":false
     }
   ]
 }

@@ -8,7 +8,7 @@
       "teamBName": "Australia",
       "bannerImagePath": "",
       "isWeb": false,
-      "isLive":true,
+      "isLive":false,
       "isVs":true
     },
     {
@@ -20,7 +20,7 @@
       "bannerImagePath": "",
       "isWeb": false,
       "isLive":true,
-      "isVs":true
+      "isVs":false
     },
     {
       "link": "https://gocast123.me/embed.php?player=desktop&v=skyscric",
@@ -31,7 +31,7 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive":true,
-      "isVs":true
+      "isVs":false
     },
      {
       "link": "https://gocast123.me/embed.php?player=desktop&v=ptvpk",
@@ -42,7 +42,7 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive":true,
-       "isVs":true
+       "isVs":false
     }
   ]
 }

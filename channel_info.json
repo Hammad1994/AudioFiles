@@ -20,7 +20,7 @@
       "bannerImagePath": "",
       "isWeb": false,
       "isLive":true,
-      "isVs":false
+      "isVs":true
     },
     {
       "link": "https://gocast123.me/embed.php?player=desktop&v=skyscric",
@@ -42,7 +42,7 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive":true,
-       "isVs":false
+       "isVs":true
     }
   ]
 }

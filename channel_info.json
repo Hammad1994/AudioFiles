@@ -12,6 +12,17 @@
        "isVs":true
     },
     {
+      "link": "https://gocast123.me/embed.php?player=desktop&v=skyscric",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
+      "teamAName": "Netherlands",
+      "teamBName": "India",
+      "bannerImagePath": "",
+      "isWeb": true,
+      "isLive":true,
+      "isVs":true
+    },
+    {
       "link": "https://www.twitch.tv/cric_1995",
       "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
       "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
@@ -30,17 +41,6 @@
       "teamBName": "India",
       "bannerImagePath": "",
       "isWeb": false,
-      "isLive":true,
-      "isVs":true
-    },
-    {
-      "link": "https://gocast123.me/embed.php?player=desktop&v=skyscric",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
-      "teamAName": "Netherlands",
-      "teamBName": "India",
-      "bannerImagePath": "",
-      "isWeb": true,
       "isLive":true,
       "isVs":true
     }

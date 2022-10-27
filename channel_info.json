@@ -9,7 +9,7 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
-      "isVs": true
+      "isVs": false
     },
     {
       "link": "https://gocast123.me/embed.php?player=desktop&v=skyscric",
@@ -20,7 +20,7 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
-      "isVs": true
+      "isVs": false
     },
     {
       "link": "https://www.twitch.tv/cric_1995",
@@ -30,8 +30,8 @@
       "teamBName": "Pakistan",
       "bannerImagePath": "",
       "isWeb": false,
-      "isLive": true,
-      "isVs": true
+      "isLive": false,
+      "isVs": false
     },
     {
       "link": "https://www.twitch.tv/cric_1994",
@@ -41,8 +41,8 @@
       "teamBName": "Pakistan",
       "bannerImagePath": "",
       "isWeb": false,
-      "isLive": true,
-      "isVs": true
+      "isLive": false,
+      "isVs": false
     }
   ]
 }

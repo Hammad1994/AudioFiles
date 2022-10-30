@@ -30,8 +30,8 @@
       "teamBName": "South Africa",
       "bannerImagePath": "",
       "isWeb": false,
-      "isLive": true,
-      "isVs": true
+      "isLive": false,
+      "isVs": false
     },
     {
       "link": "https://www.twitch.tv/cric_1994",

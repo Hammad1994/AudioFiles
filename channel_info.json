@@ -9,7 +9,7 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
-      "isVs": false
+      "isVs": true
     },
     {
       "link": "https://gocast123.me/embed.php?player=desktop&v=tenspk",
@@ -20,7 +20,7 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
-      "isVs": false
+      "isVs": true
     },
     {
       "link": "https://www.twitch.tv/cric_1995",
@@ -31,7 +31,7 @@
       "bannerImagePath": "",
       "isWeb": false,
       "isLive": true,
-      "isVs": false
+      "isVs": true
     },
     {
       "link": "https://www.twitch.tv/cric_1994",

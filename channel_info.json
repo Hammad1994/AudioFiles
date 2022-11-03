@@ -26,14 +26,14 @@
     },
     {
       "link": "https://www.twitch.tv/cric_1995",
-       "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
       "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/kW8yJV655U2u-ri-00yOBg_96x96.png",
       "teamAName": "Australia",
       "teamBName": "Ireland",
       "bannerImagePath": "",
       "isWeb": false,
       "isLive": true,
-      "isVs": false
+      "isVs": false,
       "timeStamp": "2022-11-04 09:00 AM +0500"
     },
     {

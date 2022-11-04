@@ -9,7 +9,7 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
-      "isVs": false,
+      "isVs": true,
       "timeStamp": ""
     },
     {
@@ -21,7 +21,7 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
-      "isVs": false,
+      "isVs": true,
       "timeStamp": ""
     },
     {
@@ -33,7 +33,7 @@
       "bannerImagePath": "",
       "isWeb": false,
       "isLive": true,
-      "isVs": false,
+      "isVs": true,
       "timeStamp": ""
     },
     {

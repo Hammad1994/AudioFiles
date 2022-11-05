@@ -2,51 +2,51 @@
   "liveNow": [
     {
       "link": "https://gocast123.me/embed.php?player=desktop&v=ptvpk",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-6moqr0dxYpIhERhbiVLSA_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
-      "teamAName": "Sri Lanka",
-      "teamBName": "England",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_96x96.png",
+      "teamAName": "Pakistan",
+      "teamBName": "Bangladesh",
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2022-11-05 01:00 PM +0500"
+      "timeStamp": "2022-11-06 09:00 AM +0500"
     },
     {
       "link": "https://gocast123.me/embed.php?player=desktop&v=tenspk",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-6moqr0dxYpIhERhbiVLSA_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
-      "teamAName": "Sri Lanka",
-      "teamBName": "England",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_96x96.png",
+      "teamAName": "Pakistan",
+      "teamBName": "Bangladesh",
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2022-11-05 01:00 PM +0500"
+      "timeStamp": "2022-11-06 09:00 AM +0500"
     },
     {
       "link": "https://www.twitch.tv/cric_1995",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-6moqr0dxYpIhERhbiVLSA_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
-      "teamAName": "Sri Lanka",
-      "teamBName": "England",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_96x96.png",
+     "teamAName": "Pakistan",
+      "teamBName": "Bangladesh",
       "bannerImagePath": "",
       "isWeb": false,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2022-11-05 01:00 PM +0500"
+      "timeStamp": "2022-11-06 09:00 AM +0500"
     },
     {
       "link": "https://www.twitch.tv/cric_1994",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-6moqr0dxYpIhERhbiVLSA_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
-      "teamAName": "Sri Lanka",
-      "teamBName": "England",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_96x96.png",
+      "teamAName": "Pakistan",
+      "teamBName": "Bangladesh",
       "bannerImagePath": "",
       "isWeb": false,
       "isLive": false,
       "isVs": false,
-      "timeStamp": "2022-11-05 01:00 PM +0500"
+      "timeStamp": "2022-11-06 09:00 AM +0500"
     }
   ]
 }

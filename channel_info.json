@@ -2,51 +2,51 @@
   "liveNow": [
     {
       "link": "https://gocast123.me/embed.php?player=desktop&v=ptvpk",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/8bI8VibVGa2HtxKN_SZE6g_96x96.png",
-      "teamAName": "India",
-      "teamBName": "Zimbabwe",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
+      "teamAName": "New Zealand",
+      "teamBName": "Pakistan",
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2022-11-06 01:00 PM +0500"
+      "timeStamp": "2022-11-09 01:00 PM +0500"
     },
     {
       "link": "https://gocast123.me/embed.php?player=desktop&v=tenspk",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/8bI8VibVGa2HtxKN_SZE6g_96x96.png",
-      "teamAName": "India",
-      "teamBName": "Zimbabwe",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
+      "teamAName": "New Zealand",
+      "teamBName": "Pakistan",
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2022-11-06 01:00 PM +0500"
+      "timeStamp": "2022-11-09 01:00 PM +0500"
     },
     {
       "link": "https://www.twitch.tv/cric_1995",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/8bI8VibVGa2HtxKN_SZE6g_96x96.png",
-      "teamAName": "India",
-      "teamBName": "Zimbabwe",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
+      "teamAName": "New Zealand",
+      "teamBName": "Pakistan",
       "bannerImagePath": "",
       "isWeb": false,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2022-11-06 01:00 PM +0500"
+      "timeStamp": "2022-11-09 01:00 PM +0500"
     },
     {
       "link": "https://www.twitch.tv/cric_1994",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/8bI8VibVGa2HtxKN_SZE6g_96x96.png",
-      "teamAName": "India",
-      "teamBName": "Zimbabwe",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
+      "teamAName": "New Zealand",
+      "teamBName": "Pakistan",
       "bannerImagePath": "",
       "isWeb": false,
       "isLive": false,
       "isVs": false,
-      "timeStamp": "2022-11-06 01:00 PM +0500"
+      "timeStamp": "2022-11-09 01:00 PM +0500"
     }
   ]
 }

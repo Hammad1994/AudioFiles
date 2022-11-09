@@ -9,7 +9,7 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
-      "isVs": false,
+      "isVs": true,
       "timeStamp": "2022-11-10 01:00 PM +0500"
     },
     {
@@ -21,7 +21,7 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": false,
-      "isVs": false,
+      "isVs": true,
        "timeStamp": "2022-11-10 01:00 PM +0500"
     },
     {
@@ -33,7 +33,7 @@
       "bannerImagePath": "",
       "isWeb": false,
       "isLive": true,
-      "isVs": false,
+      "isVs": true,
        "timeStamp": "2022-11-10 01:00 PM +0500"
     },
     {
@@ -45,7 +45,7 @@
       "bannerImagePath": "",
       "isWeb": false,
       "isLive": false,
-      "isVs": false,
+      "isVs": true,
        "timeStamp": "2022-11-10 01:00 PM +0500"
     }
   ]

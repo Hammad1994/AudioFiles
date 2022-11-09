@@ -9,7 +9,7 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
-      "isVs": true,
+      "isVs": false,
       "timeStamp": "2022-11-09 01:00 PM +0500"
     },
     {
@@ -20,8 +20,8 @@
       "teamBName": "Pakistan",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
-      "isVs": true,
+      "isLive": false,
+      "isVs": false,
       "timeStamp": "2022-11-09 01:00 PM +0500"
     },
     {
@@ -33,7 +33,7 @@
       "bannerImagePath": "",
       "isWeb": false,
       "isLive": true,
-      "isVs": true,
+      "isVs": false,
       "timeStamp": "2022-11-09 01:00 PM +0500"
     },
     {

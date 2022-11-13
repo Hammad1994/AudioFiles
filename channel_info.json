@@ -20,7 +20,7 @@
       "teamBName": "England",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": false,
        "timeStamp": ""
     },
@@ -32,7 +32,7 @@
       "teamBName": "England",
       "bannerImagePath": "",
       "isWeb": false,
-      "isLive": true,
+      "isLive": false,
       "isVs": false,
        "timeStamp": ""
     },

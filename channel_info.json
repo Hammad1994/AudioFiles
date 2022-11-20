@@ -26,15 +26,15 @@
     },
     {
       "link": "https://www.twitch.tv/cric_1995",
-     "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
+     "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/h0FNA5YxLzWChHS5K0o4gw_96x96.png",
       "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
-      "teamAName": "Pakistan",
-      "teamBName": "England",
+      "teamAName": "Qatar",
+      "teamBName": "Ecuador",
       "bannerImagePath": "",
       "isWeb": false,
       "isLive": true,
-      "isVs": false,
-       "timeStamp": ""
+      "isVs": true,
+       "timeStamp": "2022-11-20 09:00 PM +0500"
     },
     {
       "link": "https://www.twitch.tv/cric_1994",

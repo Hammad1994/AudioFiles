@@ -32,7 +32,7 @@
       "teamBName": "Netherlands",
       "bannerImagePath": "",
       "isWeb": false,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
        "timeStamp": ""
     },
